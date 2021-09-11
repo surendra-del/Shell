@@ -1,0 +1,21 @@
+1
+setenv 
+jobs
+quit
+gedit 
+gedit
+gedit
+gedit
+subl
+firefox
+jobs
+overkill
+quit
+
+quit
+
+
+quit
+setenv foo bar
+getenv foo
+setenv foo
